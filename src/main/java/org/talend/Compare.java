@@ -11,8 +11,8 @@ import static com.atilika.kuromoji.TokenizerBase.Mode.SEARCH;
 public class Compare {
 
     public static void main(String[] args) {
-        final String JAPANESE = "東京都へ行く"; //i want to eat sushis
-        // お
+        final String JAPANESE = "寿司が食べたい。"; //i want to eat sushis
+        
         // 寿司 : sushi
         // が
         // 食べ : to eat
